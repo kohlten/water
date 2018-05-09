@@ -1,0 +1,14 @@
+{
+	"name": "water",
+	"authors": [
+		"Alexander Strole"
+	],
+	"dependencies": {
+		"dsfml": "~>2.1.1"
+	},
+	"description": "A representation of water ripples",
+	"copyright": "Copyright © 2018, Alexander Strole",
+	"license": "proprietary",
+	"lflags": ["-LDSFMLC/lib"],
+	"targetPath": "bin"
+}
